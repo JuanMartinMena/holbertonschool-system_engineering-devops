@@ -1,1 +1,6 @@
-
+A one-server web infrastructure:
+- Server IP: 8.8.8.8
+- Domain: www.foobar.com (A record)
+- Web Server: Nginx
+- Application Server: Python (e.g., Flask, Django)
+- Database: MySQL
