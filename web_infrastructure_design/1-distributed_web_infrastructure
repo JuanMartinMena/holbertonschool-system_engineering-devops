@@ -1,0 +1,6 @@
+A three-server distributed web infrastructure:
+- Load Balancer: HAProxy, using Round Robin distribution.
+- Web Server: Nginx.
+- Application Server: Python application (e.g., Flask/Django).
+- Database Cluster: MySQL Primary-Replica.
+- Domain: www.foobar.com (A record).

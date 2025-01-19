@@ -1,0 +1,8 @@
+A three-server secured and monitored web infrastructure:
+- Load Balancer: HAProxy with SSL termination.
+- Web Server: Nginx.
+- Application Server: Handles logic and interacts with the database.
+- Database Cluster: MySQL Primary-Replica.
+- Firewalls: Protect all servers.
+- Monitoring Clients: Track metrics and logs.
+- Domain: www.foobar.com with HTTPS.

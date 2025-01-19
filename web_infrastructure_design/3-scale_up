@@ -1,0 +1,4 @@
+A scaled-up web infrastructure design:
+- 2 Load Balancers (HAProxy) in cluster configuration.
+- Dedicated servers for web server (Nginx), application server, and database (MySQL).
+- High availability, scalability, and performance optimization.
